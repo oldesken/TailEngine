@@ -1,0 +1,395 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wi",
+				"width"
+			],
+			[
+				"posi",
+				"position"
+			],
+			[
+				"positio",
+				"positionComp"
+			],
+			[
+				"pos",
+				"positionComp"
+			],
+			[
+				"tile",
+				"tileMap"
+			],
+			[
+				"vecto",
+				"vector\tstandard header"
+			],
+			[
+				"Sr",
+				"SDL_Rect"
+			],
+			[
+				"til",
+				"tileId"
+			],
+			[
+				"Tile",
+				"tileRect"
+			],
+			[
+				"p",
+				"public"
+			],
+			[
+				"SDL",
+				"SDL_Delay"
+			],
+			[
+				"fram",
+				"frameDelay"
+			],
+			[
+				"frma",
+				"frameStart"
+			],
+			[
+				"frame",
+				"frameTime"
+			],
+			[
+				"STD",
+				"SDL_GetTicks"
+			],
+			[
+				"enti",
+				"entityManager"
+			],
+			[
+				"te",
+				"TextureManager"
+			],
+			[
+				"compo",
+				"ComponentID"
+			],
+			[
+				"comp",
+				"Component"
+			],
+			[
+				"Comp",
+				"Component"
+			],
+			[
+				"vec",
+				"vector\tstandard header"
+			],
+			[
+				"mana",
+				"entityManager"
+			],
+			[
+				"En",
+				"Entity"
+			],
+			[
+				"en",
+				"entities"
+			],
+			[
+				"getComp",
+				"getComponentTypeID"
+			],
+			[
+				"compone",
+				"ComponentArray"
+			],
+			[
+				"com",
+				"ComponentID"
+			],
+			[
+				"tran",
+				"translation"
+			],
+			[
+				"Frm",
+				"frameTicks"
+			],
+			[
+				"displ",
+				"displayIndex"
+			],
+			[
+				"in",
+				"int"
+			],
+			[
+				"vector",
+				"Vector2f"
+			],
+			[
+				"p_",
+				"p_x"
+			],
+			[
+				"ren",
+				"renderer"
+			],
+			[
+				"SEl",
+				"SDL_GetError"
+			],
+			[
+				"co",
+				"cout"
+			],
+			[
+				"ios",
+				"iostream\tstandard header"
+			],
+			[
+				"re",
+				"renderer"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"st",
+				"std"
+			],
+			[
+				"stdio",
+				"stdio.h\tstandard header (deprecated)"
+			],
+			[
+				"l",
+				"logOnOptions"
+			],
+			[
+				"Stesa",
+				"SteamUser"
+			]
+		]
+	},
+	"build_system": "Debug",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Debug",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Debug",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Pichau/Documents/SublimeProjects/TailEngine/include/TailEngine/TileComponent.hpp",
+		"/C/Users/Pichau/Documents/SublimeProjects/TailEngine/include/TailEngine/Game.cpp",
+		"/C/Users/Pichau/Documents/SublimeProjects/TailEngine/Project.sublime-project",
+		"/C/Users/Pichau/Documents/SublimeProjects/TailEngine/src/TileComponent.hpp",
+		"/C/Users/Pichau/Documents/SublimeProjects/TailEngine/include/TailEngine/Graphics/SpriteComponent.cpp",
+		"/C/Users/Pichau/Documents/SublimeProjects/TailEngine/include/TailEngine/Game.hpp",
+		"/C/Users/Pichau/Documents/SublimeProjects/TailEngine/include/TailEngine/Graphics/TextureManager.hpp",
+		"/C/Users/Pichau/Documents/SublimeProjects/TailEngine/src/main.cpp",
+		"/C/Users/Pichau/Documents/SublimeProjects/TailEngine/ECS.o",
+		"/C/Users/Pichau/Documents/SublimeProjects/TailEngine/src/Game.cpp",
+		"/C/Users/Pichau/Documents/SublimeProjects/TailEngine/include/TailEngine/Graphics/SpriteComponent.hpp",
+		"/C/Users/Pichau/Documents/SublimeProjects/TailEngine/include/TailEngine/Input/KeyboardController.hpp",
+		"/C/Users/Pichau/Documents/SublimeProjects/TailEngine/include/TailEngine/Graphics/TextureManager.cpp",
+		"/C/Users/Pichau/Documents/SublimeProjects/TailEngine/src/Game.hpp",
+		"/C/Users/Pichau/Documents/SublimeProjects/TailEngine/include/TailEngine/Entity/Entity.hpp",
+		"/C/Users/Pichau/Documents/SublimeProjects/TailEngine/include/TailEngine/Entity/ECS.hpp",
+		"/C/Users/Pichau/Documents/SublimeProjects/TailEngine/include/RenderWindow.hpp",
+		"/C/Users/Pichau/Documents/SublimeProjects/TailEngine/include/TailEngine/Window/RenderWindow.cpp",
+		"/C/Users/Pichau/Documents/SublimeProjects/TailEngine/include/TailEngine/Window/RenderWindow.hpp",
+		"/C/Users/Pichau/Documents/SublimeProjects/TailEngine/include/PositionComponent.hpp",
+		"/C/Users/Pichau/Documents/SublimeProjects/SDLTest/ECS.o",
+		"/C/Users/Pichau/Documents/SublimeProjects/SDLTest/Project.sublime-project",
+		"/C/Users/Pichau/Documents/SublimeProjects/SDLTest/src/Vector2f.cpp",
+		"/C/Users/Pichau/Documents/SublimeProjects/SDLTest/src/RenderWindow.cpp",
+		"/C/Users/Pichau/Documents/SublimeProjects/SDLTest/include/RenderWindow.hpp",
+		"/C/Users/Pichau/Documents/SublimeProjects/SDLTest/include/Entity.hpp",
+		"/C/Users/Pichau/Documents/SublimeProjects/SDLTest/src/Entity.cpp",
+		"/C/Users/Pichau/Documents/SublimeProjects/SDLTest/src/math.cpp",
+		"/C/Users/Pichau/Documents/SublimeProjects/SDLTest/include/math.hpp",
+		"/C/Users/Pichau/Documents/SublimeProjects/SDLTest/include/Utils.hpp",
+		"/C/Users/Pichau/Downloads/ground_grass_1.png",
+		"/C/Users/Pichau/Documents/SublimeProjects/SDLTest/include/RenderWindow.cpp",
+		"/C/Users/Pichau/Desktop/Alargador.js",
+		"/C/Users/Pichau/Desktop/Readtemplate.js",
+		"/C/Users/Pichau/Desktop/Arquivos de Programacao/Javascript/RSbot-master/RSbot/index.js",
+		"/C/Users/Pichau/Downloads/Diario.js",
+		"/C/Users/Pichau/Desktop/SteamBot/config.json",
+		"/C/Users/Pichau/AppData/Local/Temp/Rar$DIa20564.34827/content.js",
+		"/C/Users/Pichau/Desktop/SteamBot/Bot.js",
+		"/C/Users/Pichau/Desktop/RSbot/index.js"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 262.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Debug",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
